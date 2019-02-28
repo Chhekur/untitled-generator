@@ -1,0 +1,19 @@
+{
+  "author": "Harendra Chhekur <820121223505e@gmail.com>",
+  "bin": {
+    "untitled": "./bin/run.js"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "[untitled-js'](https://www.npmjs.com/package/untitled-js) application generator.",
+  "license": "MIT",
+  "main": "bin/run.js",
+  "name": "untitled-generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
